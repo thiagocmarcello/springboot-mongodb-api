@@ -1,0 +1,48 @@
+target/
+*.iml
+.idea/
+log/
+nb-configuration.xml
+
+# Mac
+.DS_Store
+
+# Win
+Thumbs.db
+ehthumbs.db
+
+#IntelliJ
+.idea
+
+#NetBeans
+nb-configuration.xml
+nbactions.xml
+
+#yeoman
+# node_modules
+node_modules
+report
+coverage
+build
+tmp
+
+# Log files
+*.log
+
+### Node ###
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Eclipse files
+.checkstyle
+.classpath
+.pmd
+.pmdruleset.xml
+.project
+.settings/
